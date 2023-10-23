@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\bin\Debug\for döngusu 3 _1359.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\bin\Debug\for döngusu 3 _1359.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\bin\Debug\for döngusu 3 _1359.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for döngusu 3 _1359.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for döngusu 3 _1359.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for_döngusu_3__1359.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for_döngusu_3__1359.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for döngusu 3 _1359.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for döngusu 3 _1359.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for döngusu 3 _1359.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia\for döngusu 3 _1359\for döngusu 3 _1359\obj\Debug\for döngusu 3 _1359.pdb
